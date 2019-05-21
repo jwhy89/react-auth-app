@@ -20,6 +20,9 @@ MONGO_URI = "YOUR_MONGO_URI_HERE"
 ## Quick Start
 
 ```javascript
+
+// Install [Redux DevTools Chrome extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon). It is recommended to use Google Chrome as your development browser for this project and you will need to have the above extension installed to be able to run the project locally. It is recommended for any extension as it makes it easy to debug Redux logic.
+
 // Install dependencies for server & client
 npm install && npm run client-install
 
